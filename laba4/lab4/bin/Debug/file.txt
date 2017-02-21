@@ -1,0 +1,6 @@
+Id - 29116, Apofem - 2,1, Perimetr - 15,8 SquareBottom - 36,5
+
+Id - 32676, Apofem - 2,3, Perimetr - 45,6 SquareBottom - 34,5
+
+Id - 63224, Apofem - 2,7, Perimetr - 85,1 SquareBottom - 30,5
+

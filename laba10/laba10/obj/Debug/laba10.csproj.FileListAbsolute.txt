@@ -1,0 +1,12 @@
+D:\RESTORE\C#\Labs\laba10\laba10\bin\Debug\laba10.exe.config
+D:\RESTORE\C#\Labs\laba10\laba10\bin\Debug\laba10.exe
+D:\RESTORE\C#\Labs\laba10\laba10\bin\Debug\laba10.pdb
+D:\RESTORE\C#\Labs\laba10\laba10\obj\Debug\laba10.csprojResolveAssemblyReference.cache
+D:\RESTORE\C#\Labs\laba10\laba10\obj\Debug\laba10.Form1.resources
+D:\RESTORE\C#\Labs\laba10\laba10\obj\Debug\laba10.Properties.Resources.resources
+D:\RESTORE\C#\Labs\laba10\laba10\obj\Debug\laba10.csproj.GenerateResource.Cache
+D:\RESTORE\C#\Labs\laba10\laba10\obj\Debug\laba10.exe
+D:\RESTORE\C#\Labs\laba10\laba10\obj\Debug\laba10.pdb
+D:\RESTORE\C#\Labs\laba10\laba10\bin\Debug\MySql.Data.dll
+D:\RESTORE\C#\Labs\laba10\laba10\obj\Debug\laba10.ModalForm.resources
+D:\RESTORE\C#\Labs\laba10\laba10\obj\Debug\laba10.ImageForm.resources

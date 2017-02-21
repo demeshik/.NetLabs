@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>Евгений</Name>
+    <Date>04.05.2016 21:00:22</Date>
+    <Color>Maroon</Color>
+    <Font>Mistral</Font>
+    <About>Студент ПОИБМС</About>
+    <Browser>Google Chrome</Browser>
+  </Person>
+  <Person>
+    <Name>Александр</Name>
+    <Date>29.05.2016 0:00:00</Date>
+    <Color>Red</Color>
+    <Font>Monotype Corsiva</Font>
+    <About>Студент ПОИТ, 2-3</About>
+    <Browser>Google Chrome</Browser>
+  </Person>
+  <Person>
+    <Name>Алексей</Name>
+    <Date>18.03.2016 0:00:00</Date>
+    <Color>Black</Color>
+    <Font>Modern No. 20</Font>
+    <About>СТУДЕНТ ПОИТ</About>
+    <Browser>Microsoft Edge</Browser>
+  </Person>
+  <Person>
+    <Name>Александр</Name>
+    <Date>09.04.1997 0:00:00</Date>
+    <Color>Red</Color>
+    <Font>MS Outlook</Font>
+    <About>Студент ПОИТ</About>
+    <Browser>Microsoft Edge</Browser>
+  </Person>
+</ArrayOfPerson>

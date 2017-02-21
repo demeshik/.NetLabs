@@ -1,0 +1,9 @@
+D:\RESTORE\C#\Labs\laba5_2\laba5_2\bin\Debug\laba5_2.exe.config
+D:\RESTORE\C#\Labs\laba5_2\laba5_2\bin\Debug\laba5_2.exe
+D:\RESTORE\C#\Labs\laba5_2\laba5_2\bin\Debug\laba5_2.pdb
+D:\RESTORE\C#\Labs\laba5_2\laba5_2\obj\Debug\laba5_2.csprojResolveAssemblyReference.cache
+D:\RESTORE\C#\Labs\laba5_2\laba5_2\obj\Debug\laba5_2.Form1.resources
+D:\RESTORE\C#\Labs\laba5_2\laba5_2\obj\Debug\laba5_2.Properties.Resources.resources
+D:\RESTORE\C#\Labs\laba5_2\laba5_2\obj\Debug\laba5_2.csproj.GenerateResource.Cache
+D:\RESTORE\C#\Labs\laba5_2\laba5_2\obj\Debug\laba5_2.exe
+D:\RESTORE\C#\Labs\laba5_2\laba5_2\obj\Debug\laba5_2.pdb

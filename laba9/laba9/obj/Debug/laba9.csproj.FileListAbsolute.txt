@@ -1,0 +1,12 @@
+D:\RESTORE\C#\Labs\laba9\laba9\bin\Debug\laba9.exe.config
+D:\RESTORE\C#\Labs\laba9\laba9\bin\Debug\laba9.exe
+D:\RESTORE\C#\Labs\laba9\laba9\bin\Debug\laba9.pdb
+D:\RESTORE\C#\Labs\laba9\laba9\bin\Debug\ZedGraph.dll
+D:\RESTORE\C#\Labs\laba9\laba9\obj\Debug\laba9.Form1.resources
+D:\RESTORE\C#\Labs\laba9\laba9\obj\Debug\laba9.Game.resources
+D:\RESTORE\C#\Labs\laba9\laba9\obj\Debug\laba9.Modal.resources
+D:\RESTORE\C#\Labs\laba9\laba9\obj\Debug\laba9.Properties.Resources.resources
+D:\RESTORE\C#\Labs\laba9\laba9\obj\Debug\laba9.csproj.GenerateResource.Cache
+D:\RESTORE\C#\Labs\laba9\laba9\obj\Debug\laba9.exe
+D:\RESTORE\C#\Labs\laba9\laba9\obj\Debug\laba9.pdb
+D:\RESTORE\C#\Labs\laba9\laba9\obj\Debug\laba9.csprojResolveAssemblyReference.cache

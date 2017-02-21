@@ -1,0 +1,14 @@
+D:\RESTORE\C#\Labs\laba8\laba8\bin\Debug\laba8.exe.config
+D:\RESTORE\C#\Labs\laba8\laba8\bin\Debug\laba8.exe
+D:\RESTORE\C#\Labs\laba8\laba8\bin\Debug\laba8.pdb
+D:\RESTORE\C#\Labs\laba8\laba8\obj\Debug\laba8.g.resources
+D:\RESTORE\C#\Labs\laba8\laba8\obj\Debug\laba8.Form1.resources
+D:\RESTORE\C#\Labs\laba8\laba8\obj\Debug\laba8.Properties.Resources.resources
+D:\RESTORE\C#\Labs\laba8\laba8\obj\Debug\laba8.csproj.GenerateResource.Cache
+D:\RESTORE\C#\Labs\laba8\laba8\obj\Debug\laba8.exe
+D:\RESTORE\C#\Labs\laba8\laba8\obj\Debug\laba8.pdb
+D:\RESTORE\C#\Labs\laba8\laba8\obj\Debug\laba8.MDIChild.resources
+D:\RESTORE\C#\Labs\laba8\laba8\obj\Debug\laba8.csprojResolveAssemblyReference.cache
+D:\RESTORE\C#\Labs\laba8\laba8\bin\Debug\en-001\laba8.resources.dll
+D:\RESTORE\C#\Labs\laba8\laba8\obj\Debug\laba8.Form1.en-001.resources
+D:\RESTORE\C#\Labs\laba8\laba8\obj\Debug\en-001\laba8.resources.dll

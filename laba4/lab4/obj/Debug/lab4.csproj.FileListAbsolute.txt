@@ -1,0 +1,9 @@
+D:\RESTORE\C#\Labs\lab4\lab4\bin\Debug\lab4.exe.config
+D:\RESTORE\C#\Labs\lab4\lab4\bin\Debug\lab4.exe
+D:\RESTORE\C#\Labs\lab4\lab4\bin\Debug\lab4.pdb
+D:\RESTORE\C#\Labs\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+D:\RESTORE\C#\Labs\lab4\lab4\obj\Debug\lab4.exe
+D:\RESTORE\C#\Labs\lab4\lab4\obj\Debug\lab4.pdb
+D:\RESTORE\C#\Labs\laba4\lab4\bin\Debug\lab4.exe.config
+D:\RESTORE\C#\Labs\laba4\lab4\obj\Debug\lab4.exe
+D:\RESTORE\C#\Labs\laba4\lab4\obj\Debug\lab4.pdb

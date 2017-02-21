@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\C#\Labs\laba_1\laba_1\bin\Debug\laba_1.exe.config
+C:\Users\Alex\Desktop\C#\Labs\laba_1\laba_1\bin\Debug\laba_1.exe
+C:\Users\Alex\Desktop\C#\Labs\laba_1\laba_1\bin\Debug\laba_1.pdb
+C:\Users\Alex\Desktop\C#\Labs\laba_1\laba_1\obj\Debug\laba_1.exe
+C:\Users\Alex\Desktop\C#\Labs\laba_1\laba_1\obj\Debug\laba_1.pdb
+C:\Users\Alex\Desktop\C#\Labs\laba_1\laba_1\obj\Debug\laba_1.csprojResolveAssemblyReference.cache
+D:\RESTORE\C#\Labs\laba_1\laba_1\bin\Debug\laba_1.exe.config
+D:\RESTORE\C#\Labs\laba_1\laba_1\obj\Debug\laba_1.exe
+D:\RESTORE\C#\Labs\laba_1\laba_1\obj\Debug\laba_1.pdb
